@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether the S&P 500 index will close **UP** or **DOWN** the next trading day, using technical indicators and live market data.
 
-🔗 **Live demo:** _(add your Streamlit Cloud link here once deployed)_
+🔗 **Live demo:** _(https://sp500directionprediction-2iyk85hv8ut4mmu3auwrvc.streamlit.app/)_
 
 ---
 
@@ -75,7 +75,7 @@ This project is for educational and portfolio purposes only. It does not constit
 
 Une application web de machine learning qui prédit si l'indice S&P 500 clôturera **À LA HAUSSE** ou **À LA BAISSE** le jour de bourse suivant, à partir d'indicateurs techniques et de données de marché en direct.
 
-🔗 **Démo en ligne :** _(ajouter le lien Streamlit Cloud une fois déployé)_
+🔗 **Démo en ligne :** _(https://sp500directionprediction-2iyk85hv8ut4mmu3auwrvc.streamlit.app/)_
 
 ---
 
