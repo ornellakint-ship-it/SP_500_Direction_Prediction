@@ -18,7 +18,7 @@ st.write("Predicts whether the S&P 500 will close UP or DOWN tomorrow, based on 
 # Fetch latest data
 @st.cache_data(ttl=3600)  # refresh every hour
 def get_data():
-    df = yf.download("^GSPC", period="6mo")
+    df = yf.download("^GSPC", period="1y")
     if isinstance(df.columns, pd.MultiIndex):
         df.columns = df.columns.get_level_values(0)
     df['Close'] = df['Close'].astype(float)
